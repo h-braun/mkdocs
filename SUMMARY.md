@@ -1,1 +1,2 @@
+<!--nav-->
 * [service1](service1/docs/README.md)
