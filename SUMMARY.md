@@ -1,2 +1,0 @@
-* kube-prod
-    * *.md
