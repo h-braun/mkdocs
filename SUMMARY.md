@@ -1,2 +1,1 @@
-* kube-prod
-    * [service1](service1/docs/README.md)
+* [service1](service1/docs/README.md)
